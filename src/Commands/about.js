@@ -18,7 +18,7 @@ const handleAbout = async (interaction) => {
         },
         {
           name: "Developer",
-          value: "Developed by YiYang Ji (Johnny)\n[About website](https://www.google.com/)\n\u200B",
+          value: "Developed by YiYang Ji (Johnny)\n[About website](https://www.dealhunterapp.com/about)\n\u200B",
         },
         {
           name: "Add the Bot",
@@ -26,7 +26,7 @@ const handleAbout = async (interaction) => {
         },
         {
           name: "Contact",
-          value: "[Report a bug or get in contact for suggestions or feedback!](https://www.google.com/)\n\u200B",
+          value: "[Report a bug or get in contact for suggestions or feedback!](https://www.dealhunterapp.com/contact)\n\u200B",
         }
       )
       .setFooter({ text: "Powered By Data from RAWG.io and CheapShark.com" }); // Establece el pie de página del embed
